@@ -1,1 +1,1 @@
-TOKEN | xhook | XHOOK
+TOKEN | test | XHOOK
