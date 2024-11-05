@@ -1,1 +1,1 @@
-TOKEN | test | XHOOK
+TOKEN | blackies | XHOOK
